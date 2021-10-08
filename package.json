@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my first desktop app. ",
+  "main": "index.js",
+  "scripts": {
+    "electron" : "electron ."
+  },
+  "author": "Hiiro",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.1.1"
+  }
+}
