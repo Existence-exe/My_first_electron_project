@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(135deg,#1E90FF,#008B8B);
+}
+
+h1{
+    font-family:sans-serif;
+    font-style: italic;
+    font: bold ;
+}
+
+
+div.form_div{
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    color: azure;
+    background-color: black;
+}
+
+p.form_div{
+    font: 400;
+    font-family: Consolas;
+    font-style: italic;
+    font-size: larger;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+button.form_div{ 
+    margin: 10px;
+    border-width: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+}
+
