@@ -1,5 +1,3 @@
-const button_1 = document.getElementById("button_1")
-console.log(button_1.innerText)
-function change(){
-    button_1.innerHTML = "Has been clicked";
-}
+const name = document.getElementById("name_input").value;
+const pword = document.getElementById("pword_input").value;
+

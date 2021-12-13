@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    border: 0px;
+    margin: 5px;
+    border: 5px;
     box-sizing: border-box;
 }
 
@@ -8,17 +8,26 @@ body{
     background-image: linear-gradient(135deg,#1E90FF,#008B8B);
 }
 
-h1{
-    font-family:sans-serif;
+h1.h1_div{
+    border:1px;
+    width: fit-content;
+    border-style: solid;
+    border-color: white;
+    padding: 1px;
+    background-color: violet;
+    font-family:Consolas;
     font-style: italic;
     font: bold ;
 }
 
+div.h1_div{
+    padding-bottom: 30px;
+}
 
 div.form_div{
     text-align: center;
     height: 200px;
-    width: 100%;
+    width: 99%;
     color: azure;
     background-color: black;
 }
@@ -39,4 +48,5 @@ button.form_div{
     padding-right: 50px;
     border-radius: 5px;
 }
+
 
