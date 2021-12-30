@@ -49,4 +49,8 @@ button.form_div{
     border-radius: 5px;
 }
 
+input.form_div{
+    outline: none;
+}
+
 

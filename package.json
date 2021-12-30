@@ -11,6 +11,6 @@
   "dependencies": {
     "electron": "^15.3.3",
     "fs": "^0.0.1-security",
-    "packages": "^0.0.8"
+    "packages": "0.0.8"
   }
 }
